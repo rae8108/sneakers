@@ -1,0 +1,14 @@
+.basket-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.basket-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.basket-item img {
+  width: 350px;
+  height: auto;
+}
